@@ -17,6 +17,12 @@ APK: https://drive.google.com/file/d/1JJljB1Snhks02CQ-tNMV96QJ2lRX_zRS/view?usp=
 - Search Pokemon Card using name.
 - See detail of the Pokemon Card.
 
+## Tech
+
+- Clean Architecture with Multi-Module.
+- Kotlin Flow.
+- Jetpack Compose.
+- Dagger-Hilt for Dependency Injection.
 
 ## Flow
 
