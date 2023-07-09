@@ -1,4 +1,4 @@
-<img src="https://www.freepnglogos.com/uploads/pokemon-symbol-logo-png-31.png" width="208">
+<img src="https://www.freepnglogos.com/uploads/pokemon-symbol-logo-png-31.png" width="100">
 
 # PokeCards
 
