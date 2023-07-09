@@ -1,5 +1,7 @@
 package com.example.pokecards.model.dto
 
+import java.io.Serializable
+
 data class Set(
     val id: String,
     val images: ImagesX,
@@ -11,4 +13,4 @@ data class Set(
     val series: String,
     val total: Int,
     val updatedAt: String
-)
+): Serializable

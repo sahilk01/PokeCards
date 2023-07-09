@@ -1,5 +1,7 @@
 package com.example.pokecards.model.dto
 
+import java.io.Serializable
+
 data class Prices(
     val averageSellPrice: Double,
     val avg1: Double,
@@ -16,4 +18,4 @@ data class Prices(
     val reverseHoloTrend: Double,
     val suggestedPrice: Double,
     val trendPrice: Double
-)
+): Serializable
