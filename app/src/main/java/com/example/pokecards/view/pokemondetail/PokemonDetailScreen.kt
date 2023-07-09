@@ -162,6 +162,8 @@ fun PokemonDetailScreen(
                         ResistanceList(resistance = resistance)
                     }
                 }
+
+                Spacer(modifier = Modifier.height(20.dp))
             }
         }
     }
